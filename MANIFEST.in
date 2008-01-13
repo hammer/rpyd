@@ -1,0 +1,2 @@
+include bin/rpyd
+recursive-include src *.py *.thrift
